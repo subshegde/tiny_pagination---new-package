@@ -1,7 +1,7 @@
 name: tiny_pagination
 description: "TinyPagination is a lightweight and customizable Flutter widget for adding clean, scrollable pagination controls. It supports dynamic page counts, intuitive navigation, and is ideal for paginated data views."
 version: 0.0.1
-homepage:
+homepage: https://github.com/subshegde/tiny_pagination---new-package.git
 
 environment:
   sdk: '>=3.4.4 <4.0.0'
